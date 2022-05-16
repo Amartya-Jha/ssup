@@ -1,2 +1,2 @@
 # ssup
-a simple meaasing webapp on rinkeby test network
+a simple messaging webapp on rinkeby test network
